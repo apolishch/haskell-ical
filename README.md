@@ -1,0 +1,4 @@
+# haskell-ical
+
+ICal parser
+
